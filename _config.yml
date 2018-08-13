@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 小镇大叔
-subtitle:
-description:
-keywords:
+title: 鲜橙博客
+subtitle: 一位小镇大叔的个人博客
+description: 喜欢看叔吗，叔也喜欢看你
+keywords: coding,创业
 author: 小镇大叔
 language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://zccbbg.top
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
